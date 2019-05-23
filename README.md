@@ -1,5 +1,5 @@
 ![image.png](http://ata2-img.cn-hangzhou.img-pub.aliyun-inc.com/9e7048ef11db23b0579a439676dec4c9.png)
-
+test
 # COLA架构
 <strong>COLA是Clean Object-Oriented and Layered Architecture的缩写，代表“整洁面向对象分层架构”，也叫“可乐”架构。</strong>
 >注意本架构曾用名SOFA、COPA，以后统一使用COLA这个新名称，带来不便，表示抱歉
