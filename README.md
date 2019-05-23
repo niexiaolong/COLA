@@ -63,4 +63,4 @@ mvn archetype:generate  -DgroupId=com.alibaba.sample -DartifactId=demo -Dversion
 
 6. 请求执行成功的话，可以在浏览器中的返回值中看到："customerName":"Hello, World"。同时观察启动SpringBoot的控制台，可以看到LoggerInterceptor打印出来的日志。
 
-查看生成的demo应用，我们可以看到生成了5个module，分别是demo-controller、demo-client、demo-app、demo-domain、demo-infrastructure。其中demo-client是用来存放RPC调用中的DTO（Data Transfer Object）类，其它四个module分别对应控制层、应用层、领域层和基础实施层。
+查看生成的demo应用，我们可以看到生成了5个module，分别是demo-controller、demo-client、demo-app、demo-domain、demo-infrastructure。其中demo-client是用来存放RPC调用中的DTO（Data Transfer Object）类，其它四个module分别对应控制层、应用层、领域层和基础实施层。。
